@@ -1,2 +1,2 @@
-# log
-Record problems that have occurred.
+# prompted
+save files about prompts.
